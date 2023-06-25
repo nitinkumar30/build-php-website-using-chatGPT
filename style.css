@@ -1,0 +1,121 @@
+/* Global Styles */
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.5;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* Header */
+
+.template-header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+/* Content */
+
+.template-description {
+    margin-bottom: 20px;
+}
+
+.template-image {
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.template-ingredients,
+.template-process {
+    margin-left: 20px;
+    margin-bottom: 10px;
+}
+
+.template-ingredients li,
+.template-process li {
+    margin-bottom: 5px;
+}
+
+/* Forms */
+
+.form-container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.form-input {
+    margin-bottom: 10px;
+}
+
+.form-textarea {
+    height: 100px;
+    margin-bottom: 10px;
+}
+
+.form-submit {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
+
+/* Connection */
+
+.conn-container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.conn-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.conn-table th,
+.conn-table td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+.conn-table th {
+    background-color: #f2f2f2;
+}
+
+/* Responsive Styles */
+
+@media screen and (max-width: 600px) {
+    .template-ingredients,
+    .template-process {
+        margin-left: 0;
+        padding-left: 20px;
+    }
+
+    .form-container {
+        padding: 10px;
+    }
+}
+
+/* Add this CSS rule to adjust the image size */
+.recipe img {
+    max-width: 100%;
+    height: auto;
+  }
+
+  /* Other existing CSS rules */
+
+.template-image img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  
