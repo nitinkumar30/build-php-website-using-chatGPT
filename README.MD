@@ -5,7 +5,7 @@
 - This is legally correct. You can also try  
 - You can go through the prompt I've used to build this from [here](https://chat.openai.com/share/d7e77175-328d-42a0-8df0-1a1df1aeb769)  
 - No coding skills is required actually  
-- You can check the [PDF version](promptFiles/howToBuildASimplePHPWebsiteUsingChatGPTWithoutCodingKnowledge.pdf) and [Markdown version](promptFiles/howToBuildASimplePHPWebsiteUsingChatGPTWithoutCodingKnowledge.md) of the prompts in the provided links.  
+- You can check the [PDF version](/promptFiles/howToBuildASimplePHPWebsiteUsingChatGPTWithoutCodingKnowledge.pdf) and [Markdown version](/promptFiles/howToBuildASimplePHPWebsiteUsingChatGPTWithoutCodingKnowledge.MD) of the prompts in the provided links.  
 
 
 # Pre-requisites
